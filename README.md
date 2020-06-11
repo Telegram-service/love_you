@@ -5,7 +5,7 @@
 **Step2: Use Heroku Deploy Button For Fast Deploy.**
 
 
-[![Get HU String For Userbot](https://telegra.ph/file/012e02bec79baa81490ee.jpg)](https://pornhub.ravananew.repl.run)
+
 
 **#click_the_photo_below_to_deploy**
 
