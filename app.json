@@ -136,7 +136,7 @@
     },
     "SUDO_USERS": {
       "description": "Makes Your Account Stable.",
-      "value": "138312364",
+      "value": "655585973",
       "required": false
     },
     "TZ": {
@@ -224,7 +224,7 @@
       "value": "-100",
       "required": false
     },
-    "RAVANA_LEELA": {
+    "LOVE_YOU": {
       "description": "TO ADD TIME ON YOUR PROFILE PIC, ADD LINK OF IMAGE ENDING WITH .JPG",
       "value": "https://telegra.ph/file/ffb95b46585f73d55dd1f.png",
       "required": false
